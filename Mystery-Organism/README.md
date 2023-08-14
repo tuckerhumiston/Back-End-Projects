@@ -1,4 +1,4 @@
-# Organism DNA Functons
+# Organism DNA Functions
 
 ## Description
  Creates an organism with random strain of DNA. The functions for the organism include DNA mutation, organism DNA comparison percentage, and chance of survival.
